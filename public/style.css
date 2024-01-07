@@ -1,0 +1,24 @@
+/****** Main Styling ******/
+
+body {
+  background-color: #ebedee;
+  text-align: center;
+  margin-top: 40px;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+}
+
+input#button {
+  width: 230px;
+}
+
+form {
+  margin: auto;
+  margin-top: 40px;
+  border: 1px  solid  #c5c1c1;
+  padding: 20px;
+  width: 900px;
+}
